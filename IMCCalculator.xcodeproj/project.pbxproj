@@ -15,6 +15,7 @@
 		41704BC925CDE52E00941F84 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41704BC725CDE52E00941F84 /* LaunchScreen.storyboard */; };
 		41704BD425CDE52F00941F84 /* IMCCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41704BD325CDE52F00941F84 /* IMCCalculatorTests.swift */; };
 		41704BDF25CDE52F00941F84 /* IMCCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41704BDE25CDE52F00941F84 /* IMCCalculatorUITests.swift */; };
+		41704BF025CDEE6100941F84 /* ResultScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41704BEF25CDEE6100941F84 /* ResultScreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		41704BDA25CDE52F00941F84 /* IMCCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IMCCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		41704BDE25CDE52F00941F84 /* IMCCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IMCCalculatorUITests.swift; sourceTree = "<group>"; };
 		41704BE025CDE52F00941F84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41704BEF25CDEE6100941F84 /* ResultScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultScreenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				41704BBC25CDE52B00941F84 /* AppDelegate.swift */,
 				41704BBE25CDE52B00941F84 /* SceneDelegate.swift */,
 				41704BC025CDE52B00941F84 /* ViewController.swift */,
+				41704BEF25CDEE6100941F84 /* ResultScreenViewController.swift */,
 				41704BC225CDE52B00941F84 /* Main.storyboard */,
 				41704BC525CDE52E00941F84 /* Assets.xcassets */,
 				41704BC725CDE52E00941F84 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				41704BC125CDE52B00941F84 /* ViewController.swift in Sources */,
 				41704BBD25CDE52B00941F84 /* AppDelegate.swift in Sources */,
+				41704BF025CDEE6100941F84 /* ResultScreenViewController.swift in Sources */,
 				41704BBF25CDE52B00941F84 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
